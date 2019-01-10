@@ -6,3 +6,7 @@ https://www.football-data.org/documentation/quickstart
 
 /v2/teams/{id} => 73 토트넘
 무료 버전은 lineup 조회 불가함
+
+Public APIs
+https://public-apis.xyz/category/sports
+
