@@ -15,3 +15,7 @@ OmniGraffle
 workflow 그림
 와이어프레임 툴
 
+면접 대비
+https://github.com/JaeYeopHan/Interview_Question_for_Beginner
+
+
