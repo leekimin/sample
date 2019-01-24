@@ -66,8 +66,8 @@ _  Underscore (언더스코어), Underline (언더라인)
 ---
 
 
-** https://www.haeyounglee.com/post/41769497481/how-to-write-a-killer-resume#.XEmMiU1RceM
-** http://egloos.zum.com/printf/v/609425
+- https://www.haeyounglee.com/post/41769497481/how-to-write-a-killer-resume#.XEmMiU1RceM
+- http://egloos.zum.com/printf/v/609425
 
 
 
