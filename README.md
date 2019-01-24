@@ -64,3 +64,10 @@ _  Underscore (언더스코어), Underline (언더라인)
 <  Less Than Sign (레스댄 사인), Left Angle Bracket(레프트 앵글브래킷)
 >  Greater Than Sign (그레이터댄 사인), Right Angle Bracket (라이트 앵글브래킷)
 ---
+
+
+** https://www.haeyounglee.com/post/41769497481/how-to-write-a-killer-resume#.XEmMiU1RceM
+** http://egloos.zum.com/printf/v/609425
+
+
+
