@@ -77,3 +77,5 @@ https://okky.kr/article/528198
 
 https://okky.kr/article/36690
 
+
+https://www.slideshare.net/mobile/saltynut/building-micro-service-architecture
