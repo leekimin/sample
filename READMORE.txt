@@ -1,4 +1,4 @@
-#** 보유 스킬 **
+** 보유 스킬 **
 ASP.NET 4 / MVC3 / Razor
 Java / Jsp / SpringBoot
 PHP5
