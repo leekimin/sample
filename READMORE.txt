@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿** 보유 스킬 **
+=======
+** 보유 스킬 **
+>>>>>>> 0924e15451698fb660fa54d9e471b9e31bd3824a
 ASP.NET 4 / MVC3 / Razor
 Java / Jsp / SpringBoot
 PHP5
