@@ -83,4 +83,11 @@ https://www.slideshare.net/mobile/saltynut/building-micro-service-architecture
 커리어 및 스킬 관리 도구
 http://www.abilists.com/home
 
+간간히 읽어볼 리스트
+http://www.moreagile.net/
+
+
+
+
+
 

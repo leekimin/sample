@@ -8,5 +8,11 @@ MSSQL / Oracle / MySql
 IIS / Tomcat 
 
 ** 추가 스킬 **
-1
-2
+React
+React-Native
+View.js
+Node.js
+
+
+** 학습 할 것 **
+java 이론 개념들
