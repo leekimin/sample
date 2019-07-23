@@ -1,4 +1,6 @@
-# sample
+# sample 
+
+ISTJ
 
 API 활용해서 경기좀 확인하자 ㅎㅎ
 
